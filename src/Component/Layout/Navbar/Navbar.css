@@ -1,0 +1,9 @@
+.back {
+  background-image: linear-gradient(
+    315deg,
+    #54072d 0%,
+    #090e24 29%,
+    #090e24 71%,
+    #3a184d 100%
+  );
+}
